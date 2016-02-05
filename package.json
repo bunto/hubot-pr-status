@@ -1,0 +1,36 @@
+{
+  "name": "hubot-pr-status",
+  "version": "1.0.0",
+  "description": "Determine the status of a given pull request on GitHub.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bunto/hubot-pr-status.git"
+  },
+  "keywords": [
+    "hubot",
+    "bunto",
+    "pull",
+    "request",
+    "status",
+    "travis",
+    "travisci",
+    "circleci",
+    "pr",
+    "pull-request",
+    "hubot-scripts",
+    "github"
+  ],
+  "author": "Matt Rogers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bunto/hubot-pr-status/issues"
+  },
+  "homepage": "https://github.com/bunto/hubot-pr-status",
+  "dependencies": {
+    "githubot": "~0.5.0"
+  }
+}
